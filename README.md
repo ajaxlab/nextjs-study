@@ -12,6 +12,8 @@ Such as, webpack, babel, loaders, router, state manager, css, typescript, ...
 Next.js is an **all in one solution** for it.<br>
 It aims to have best-in-class **developer experience**.
 
+![image](https://user-images.githubusercontent.com/11723334/155971320-9be2175d-d682-4579-b34a-42ccd1a87fdb.png)
+
 ## Features
 
 - Routing
