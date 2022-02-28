@@ -98,6 +98,14 @@ It aims to have best-in-class **developer experience**.
 - node_modules/next/dist/build/index.js
 
   ```js
+  "use strict";
+  Object.defineProperty(exports, "__esModule", {
+      value: true
+  });
+  exports.default = build;
+
+  // ... omitted
+  
   var _compiler = require("./compiler");
 
   async function build(dir, conf = null, reactProductionProfiling = false, debugOutput = false, runLint = true) {
